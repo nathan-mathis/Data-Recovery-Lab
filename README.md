@@ -2,7 +2,7 @@
 
 **A real-world, forensic-style data recovery of a 160GB SATA hard drive that had been sitting exposed in storage for over a decade - recovered with zero read errors using a methodical, preservation-first approach.**
 
-Built by [Nathan Mathis](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) | IT Professional | 14+ Years Enterprise IT Experience
+Built by [Nathan Mathis](https://www.linkedin.com/in/n-mathis/) | IT Professional | 14+ Years Enterprise IT Experience
 
 ---
 
@@ -156,5 +156,5 @@ The same principles that made this recovery successful are the foundation of pro
 
 IT professional with 14+ years of enterprise experience in IMACD (Install, Move, Add, Change, Dispose) service delivery at Dell Technologies supporting Boeing facilities. CompTIA A+ certified, currently pursuing Network+ (N10-009), with a long-term career path toward Digital Forensics and Incident Response (DFIR).
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- [LinkedIn](https://www.linkedin.com/in/n-mathis/)
 - [Resume available upon request]
