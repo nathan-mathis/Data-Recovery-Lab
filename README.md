@@ -105,7 +105,7 @@ After sitting exposed in a box for over a decade, the entire drive was successfu
 
 Because the recovery captured a full disk image, the entire environment is preserved exactly as it existed. The image can be loaded into a virtual environment and explored as if that system never went away.
 
-![End Result](images/End_Result.png)
+![End Result](images/End_Result.jpg)
 ---
 
 ## What This Project Became
